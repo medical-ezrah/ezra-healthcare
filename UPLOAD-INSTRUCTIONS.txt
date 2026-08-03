@@ -1,0 +1,18 @@
+EZRA HEALTHCARE — VERIFIED PROJECT
+
+Before copying this project into GitHub Desktop:
+
+1. Open this extracted folder.
+2. Open the app folder and confirm it contains:
+   - page.tsx
+   - layout.tsx
+   - globals.css
+   - about/
+   - academics/
+   - arizona-wound-care/
+   - contact/
+   - primary-care/
+   - resources/
+   - services/
+3. Copy everything from this folder into the EMPTY local Ezra-healthcare repository folder.
+4. In GitHub Desktop, the changed files should begin with app/, components/, and public/.
